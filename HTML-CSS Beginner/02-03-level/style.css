@@ -1,0 +1,31 @@
+body {
+    background-color: grey;
+  }
+h1 {
+    color: green;
+}
+h2 { 
+    color: blue;
+}
+ul {
+    color: blue;
+}
+ol {
+    color: blue;
+}
+div.a{
+    font-size: 15px;
+    height: 20px;
+    width: 50%; 
+}
+p {
+     color:blue;
+     background-color: blanchedalmond;
+ }
+ dive.b{
+     color: blue;
+    background-color: black;
+ }
+ .span {
+     color: green;
+ }

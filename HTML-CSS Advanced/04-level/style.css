@@ -1,0 +1,14 @@
+div.rood {
+    position: relative;
+    width: 400px;
+    height: 200px;
+  } 
+  
+  div.blauw {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    width: 200px;
+    height: 100px;
+    
+  }

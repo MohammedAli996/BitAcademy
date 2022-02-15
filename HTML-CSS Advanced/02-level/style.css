@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.info > img {
+    margin: 0 5px;
+}
+.page {
+    display: flex;
+}
+.reclame {
+    background-color: #000563;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+    flex-grow: 1;
+    margin: 0 4%
+}

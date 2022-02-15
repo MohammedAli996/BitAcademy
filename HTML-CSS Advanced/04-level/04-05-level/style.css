@@ -1,0 +1,197 @@
+.navbar {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: rgb(5, 18, 95);
+  order: 1;
+  color: white;
+  text-align: left;
+  
+}
+.credits > img {
+  width: 70px;
+  height: 60px;
+  position: fixed;
+  top: 2%;
+  right: 10%;
+}
+.credits > h1 {
+  color: white;
+  display: flex;
+  flex-wrap: nowrap;
+  width: 50px;
+  height: 60px;
+  position: fixed;
+  top: 1%;
+  right: 7%;
+}
+.meericon {
+  width: 40px;
+  height: 40px;
+  position: fixed;
+  top: 2%;
+  right: 1%;
+}
+.profile {
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  top: 2.5%;
+  right: 3%;
+}
+.meericone > .meerlogo {
+  width: 40px;
+  height: 40px;
+  position: fixed;
+  top: 3%;
+  right: 28%;
+}
+.meericone > p {
+  color: white;
+  display: flex;
+  flex-wrap: nowrap;
+  width: 50px;
+  height: 60px;
+  position: fixed;
+  top: 3%;
+  right: 25%;
+} 
+.leaderbord > .leaderbordlogo {
+  width: 70px;
+  height: 60px;
+  position: fixed;
+  top: 2%;
+  right: 38%;
+}
+.leaderbord > p {
+  color: white;
+  display: flex;
+  flex-wrap: nowrap;
+  width: 50px;
+  height: 60px;
+  position: fixed;
+  top: 2.5%;
+  right: 35%;
+}
+.doelenicon > .doelenlogo {
+  width: 70px;
+  height: 60px;
+  position: fixed;
+  top: 2%;
+  right: 48%;
+}
+.doelenicon > p {
+  color: white;
+  display: flex;
+  flex-wrap: nowrap;
+  width: 50px;
+  height: 60px;
+  position: fixed;
+  top: 2.5%;
+  right: 45%;
+}
+.feedbackicon > .feedbacklogo {
+  width: 65px;
+  height: 55px;
+  position: fixed;
+  top: 2.5%;
+  right: 55%;
+}
+.feedbackicon > p {
+  color: white;
+  display: flex;
+  flex-wrap: nowrap;
+  width: 50px;
+  height: 60px;
+  position: fixed;
+  top: 2.5%;
+  right: 52%;
+}
+.reviewsicon > .reviewslogo {
+  width: 65px;
+  height: 55px;
+  position: fixed;
+  top: 2%;
+  right: 64%;
+}
+.reviewsicon > p {
+  color: white;
+  display: flex;
+  flex-wrap: nowrap;
+  width: 50px;
+  height: 60px;
+  position: fixed;
+  top: 2.5%;
+  right: 61%;
+}
+.universeicon > .universelogo {
+  width: 65px;
+  height: 55px;
+  position: fixed;
+  top: 2%;
+  right: 72%;
+}
+.universeicon > p {
+  color: white;
+  display: flex;
+  flex-wrap: nowrap;
+  width: 50px;
+  height: 60px;
+  position: fixed;
+  top: 2.5%;
+  right: 69%;
+}
+.homeicon > .homelogo {
+  width: 65px;
+  height: 55px;
+  position: fixed;
+  top: 2%;
+  right: 79%;
+}
+.homeicon > p {
+  color: white;
+  display: flex;
+  flex-wrap: nowrap;
+  width: 50px;
+  height: 60px;
+  position: fixed;
+  top: 2.5%;
+  right: 76%;
+}
+table {
+  border-collapse: collapse;
+  width: 50%;
+  position: fixed;
+  top: 15%;
+  left: 20%;
+  border: 2px solid black;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.over  {
+  text-align: center;
+  border-collapse: collapse;
+  width: 15%;
+  position: fixed;
+  top: 15%;
+  left: 75%;
+  border: 2px solid black;
+}
+.growth {
+  width: 335px;
+  height: 200px;
+}

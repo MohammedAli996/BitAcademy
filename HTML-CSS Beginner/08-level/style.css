@@ -1,0 +1,61 @@
+.para0 {
+    background-color: rgb(231, 231, 231);
+    color:black;
+    height: 50px;
+    width: 50px;
+    
+  }
+  .para1 {
+    background-color: rgba(243, 156, 85, 0.705);
+    text-align: center;
+    color: green;
+    border: 2px solid rgba(60, 150, 223, 0.712);
+    height: 50px;
+    width: 50px;
+  }
+  .para1:hover {
+    cursor: pointer;
+    background-color: greenyellow;
+    color: greenyellow;
+  }
+  .para2 {
+    background-color: rgba(193, 107, 243, 0.712);
+    text-align: center;
+    color: black;
+    border: 2px solid rgba(60, 150, 223, 0.712);
+    height: 50px;
+    width: 50px;
+  }
+  .para2:hover {
+    cursor: pointer;
+    background-color: greenyellow;
+    color: greenyellow;
+  }
+  .para3 {
+    background-color: rgba(37, 179, 235, 0.74);
+    text-align: center;
+    color: black;
+    border: 2px solid rgba(60, 150, 223, 0.712);
+    height: 50px;
+    width: 50px;
+  }
+  .para3:hover {
+    cursor: pointer;
+    background-color: greenyellow;
+    color: greenyellow;
+  }
+  
+  .para4 {
+    background-color: rgba(253, 233, 117, 0.74);
+    text-align: center;
+    color: black;
+    border: 2px solid rgba(60, 150, 223, 0.712);
+    height: 50px;
+    width: 50px;
+  }
+  .para4:hover {
+    cursor: pointer;
+    background-color: greenyellow;
+    color: rgb(85, 47, 255);
+  }
+  
